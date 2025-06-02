@@ -384,7 +384,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZvtU8e3mSOi8oVmunIUA-1" value="Object Purchase Requisition Lines PODOCUMENTENTRY" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="-1040" width="520" height="1270" as="geometry" />
+          <mxGeometry x="-95" y="-1040" width="520" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="ZvtU8e3mSOi8oVmunIUA-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZvtU8e3mSOi8oVmunIUA-1">
           <mxGeometry y="30" width="520" height="40" as="geometry" />
@@ -944,7 +944,7 @@
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eSBrdO0IXpXhS161930H-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nrTbZB1NyjxcC59vCfLM-41" target="ZvtU8e3mSOi8oVmunIUA-34">
+        <mxCell id="eSBrdO0IXpXhS161930H-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=light-dark(#692626, #ededed);" edge="1" parent="1" source="nrTbZB1NyjxcC59vCfLM-41" target="ZvtU8e3mSOi8oVmunIUA-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
