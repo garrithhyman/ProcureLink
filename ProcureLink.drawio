@@ -16,6 +16,9 @@
         <mxCell id="c3YXEwEvf1o1KZgko00p-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3YXEwEvf1o1KZgko00p-35" target="c3YXEwEvf1o1KZgko00p-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="c3YXEwEvf1o1KZgko00p-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3YXEwEvf1o1KZgko00p-35" target="c3YXEwEvf1o1KZgko00p-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="c3YXEwEvf1o1KZgko00p-35" value="Purchase Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -26,6 +29,9 @@
           <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c3YXEwEvf1o1KZgko00p-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3YXEwEvf1o1KZgko00p-41" target="c3YXEwEvf1o1KZgko00p-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3YXEwEvf1o1KZgko00p-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3YXEwEvf1o1KZgko00p-41" target="c3YXEwEvf1o1KZgko00p-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c3YXEwEvf1o1KZgko00p-41" value="Vendor Invoice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -46,7 +52,10 @@
           <mxGeometry x="190" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c3YXEwEvf1o1KZgko00p-49" value="Return to Supplier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c3YXEwEvf1o1KZgko00p-52" value="Vendor Payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
