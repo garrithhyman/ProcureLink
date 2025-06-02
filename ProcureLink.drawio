@@ -52,10 +52,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G0gWBY3iZE5VZ_k7H_SM" name="Page-2">
-    <mxGraphModel dx="2633" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4019" dy="2751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eSBrdO0IXpXhS161930H-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nrTbZB1NyjxcC59vCfLM-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-575" y="-190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nrTbZB1NyjxcC59vCfLM-8" value="Object Purchase Requisition Header PODOCUMENT" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-800" y="-1040" width="450" height="750" as="geometry" />
         </mxCell>
@@ -383,8 +388,11 @@
             <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eSBrdO0IXpXhS161930H-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvtU8e3mSOi8oVmunIUA-1" target="eSBrdO0IXpXhS161930H-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZvtU8e3mSOi8oVmunIUA-1" value="Object Purchase Requisition Lines PODOCUMENTENTRY" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="-1040" width="520" height="1270" as="geometry" />
+          <mxGeometry x="-240" y="-1040" width="520" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="ZvtU8e3mSOi8oVmunIUA-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZvtU8e3mSOi8oVmunIUA-1">
           <mxGeometry y="30" width="520" height="40" as="geometry" />
@@ -946,6 +954,28 @@
         </mxCell>
         <mxCell id="eSBrdO0IXpXhS161930H-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=light-dark(#692626, #ededed);" edge="1" parent="1" source="nrTbZB1NyjxcC59vCfLM-41" target="ZvtU8e3mSOi8oVmunIUA-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBrdO0IXpXhS161930H-62" value="Wishlist (Header)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-190" width="450" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBrdO0IXpXhS161930H-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eSBrdO0IXpXhS161930H-62">
+          <mxGeometry y="30" width="450" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBrdO0IXpXhS161930H-64" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="eSBrdO0IXpXhS161930H-63">
+          <mxGeometry width="450" height="240" as="geometry">
+            <mxRectangle width="450" height="240" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eSBrdO0IXpXhS161930H-65" value="Wishlist (Lines)" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="350" width="520" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBrdO0IXpXhS161930H-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eSBrdO0IXpXhS161930H-65">
+          <mxGeometry y="30" width="520" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="eSBrdO0IXpXhS161930H-67" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="eSBrdO0IXpXhS161930H-66">
+          <mxGeometry width="520" height="240" as="geometry">
+            <mxRectangle width="520" height="240" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
