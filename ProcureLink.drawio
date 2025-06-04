@@ -1210,7 +1210,7 @@
             <mxRectangle width="147" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ec6reUXDjujzjVbPC02U-3" value="RECORDNO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="7i-392_vqwGkLPH0CoAl-10">
+        <mxCell id="Ec6reUXDjujzjVbPC02U-3" value="VENDORID" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="7i-392_vqwGkLPH0CoAl-10">
           <mxGeometry x="147" width="146" height="40" as="geometry">
             <mxRectangle width="146" height="40" as="alternateBounds" />
           </mxGeometry>
